@@ -13,3 +13,4 @@ KEY FEATURES :
 
 TECHNLOGY USED : Python - Programming Language. Libraries/Modules: NumPy - Data generation and numerical computations. Pandas - (Optional) Data manipulation (not used in the provided code). Matplotlib - Data visualization. Scikit-learn - Model implementation, training, testing, and evaluation.
 
+![image](https://github.com/user-attachments/assets/db00adb7-7c39-4ca4-823f-d4ae8f3bedef)
